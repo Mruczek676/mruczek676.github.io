@@ -1,2 +1,3 @@
 # mruczek676.github.io
-angular project for pwjs - 18896
+Projekt zaliczeniowy do przedmioty Programowanie w Językach Skryptowych.
+Wykorzystany został tutaj Angular 9 oraz Bootstrap 4.
